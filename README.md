@@ -1,4 +1,4 @@
-# coding_exercise
+# ruby_task_v1
 
 I suppose that we have only 3 items and price won't be changed ever. But if it's wrong I can change it.
 
